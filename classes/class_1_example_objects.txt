@@ -1,0 +1,14 @@
+Instance/Object:
+Bacon Cheese Hamburger
+
+Attributes:
+1. bun: "sesame"
+2. veggies: "lettuce"
+3. condiments: 2
+4. sides: true
+
+Methods:
+1. select: "sesame"
+2. add: ["lettuce", "pickle", "onion"]
+3. comes_with: condiments = 2
+4. include: sides = true
