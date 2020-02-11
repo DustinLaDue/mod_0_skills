@@ -1,0 +1,14 @@
+Class:
+Kids menu
+
+Attributes:
+1. meal (string)
+2. desert (array)
+3. drink (integer)
+4. toy (boolean)
+
+Methods:
+1. select (modifies meal type)
+2. add (adds desert)
+3. comes_with (modifies drink type)
+4. include (does_include = false)
