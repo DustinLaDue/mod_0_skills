@@ -3,7 +3,7 @@ Hamburger
 
 Attributes:
 1. bun (string)
-2. veggies (string)
+2. veggies (array)
 3. condiments (integer)
 4. sides (boolean)
 
