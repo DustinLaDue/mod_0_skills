@@ -1,0 +1,14 @@
+Instance/Object:
+Chicken Fingers
+
+Attributes:
+1. meal: "chicken_fingers"
+2. desert: "pudding", "ice_cream"
+3. drink: 2
+4. toy: false
+
+Methods:
+1. select: "sesame"
+2. add: ["pudding", "ice_cream", "cake"]
+3. comes_with: drink = 2
+4. include: toy = false
