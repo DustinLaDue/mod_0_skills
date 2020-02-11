@@ -1,0 +1,14 @@
+Class:
+Hamburger
+
+Attributes:
+1. bun (string)
+2. veggies (string)
+3. condiments (integer)
+4. sides (boolean)
+
+Methods:
+1. select (modifies bun type)
+2. add (adds veggies)
+3. comes_with (modifies how many condiments)
+4. include (does_include = true)
