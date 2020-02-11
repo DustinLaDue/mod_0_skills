@@ -1,0 +1,23 @@
+var food;
+food = "mexican";
+var is_new;
+is_new = true;
+
+food = "italian";
+
+var num1;
+num1 = 1;
+
+var num2;
+num2 = 2;
+
+num1 * num2 = 2;
+
+var num3;
+num3 = 2;
+
+var movies;
+movies = ["Tommy Boy", "Wizard of OZ", "Big"];
+fruits.pop ("Big");
+
+movies = [0, 1, 2]
