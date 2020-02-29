@@ -1,0 +1,13 @@
+CheeseSteak
+
+Attributes:
+bread (string)
+length (int)
+wrapped (bool)
+topping (array)
+
+Methods:
+changeBread (changes the bread attribute)
+takeBite (decreases the length attribute)
+isWrapped (returns wrapped to true)
+addTopping (adds topping to topping array)
