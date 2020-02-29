@@ -1,0 +1,13 @@
+goldenDoodle
+
+Attributes:
+name: "Rex"
+stressLevel: 5
+sleeping: true
+favoriteToys ["Ball", "Rope", "Tire"]
+
+Methods:
+changeName: name = "Killer"
+pet: stressLevel = 1
+wakeUp: sleeping = false
+addToy: favoriteToys = ["Ball", "Rope", "Tire", "Stick"]
