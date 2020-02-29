@@ -1,0 +1,13 @@
+phillyCheesesteak
+
+Attributes:
+bread "white"
+length 6
+wrapped true
+toppings ["onion", "cheese", "sauce"]
+
+Methods:
+changeBread: bread = "italian"
+takeBite: length = 5
+isWrapped: isWrapped = true
+addTopping: toppings = ["onion", "cheese", "sauce", "peppers"]
