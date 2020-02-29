@@ -1,0 +1,13 @@
+Dog
+
+Attributes:
+name (string)
+stressLevel (int)
+sleeping (bool)
+favoriteToy (array)
+
+Methods:
+setName (sets the dog's name)
+pet (decreases stress level)
+wakeUp (sets sleeping to false)
+addToy (adds toy to the favoriteToy array)
