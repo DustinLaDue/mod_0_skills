@@ -9,5 +9,5 @@ toppings ["onion", "cheese", "sauce"]
 Methods:
 changeBread: bread = "italian"
 takeBite: length = 5
-isWrapped: isWrapped = true
+isWrapped: wrapped = true
 addTopping: toppings = ["onion", "cheese", "sauce", "peppers"]
